@@ -197,3 +197,167 @@ nav{
 .section-five-button:hover{
     background-color: #009dff;
 }
+.div-3{
+    display: flex;
+}
+.working-man-image{
+  padding: 24px 20px 20px 20px;
+  margin: 0 50px;
+}
+.section-six-heading-one{
+    font-size: 18px;
+    margin-bottom: 19px;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: .2em;
+    line-height: 1.2;
+    text-align: center;
+}
+.section-six-heading-two{
+    font-weight: 700;
+    line-height: 1.2;
+    color: #fff;
+    font-size: 27.28px;
+    width: 64%;
+    text-align: center; 
+}
+.div-4{
+    background-color: gray;
+    cursor: pointer;
+}
+.div-5{
+    background-color: hotpink;
+    cursor: pointer;
+}
+.cartoons{
+    padding: 24px 20px 20px 20px;
+    margin: 0 122px;
+}
+.section-six-heading-three{
+    font-size: 18px;
+    margin-bottom: 19px;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: .2em;
+    line-height: 1.2;
+    text-align: center;
+    width: 122%;
+}
+.section-six-heading-four{
+    font-weight: 700;
+    line-height: 1.2;
+    color: #fff;
+    font-size: 27.28px;
+    width: 64%;
+    text-align: center; 
+    width: 141%;
+}
+.roblox-device{
+    background-color: rgb(51, 44, 44);
+    padding: 202px 0 154px 0;
+}
+.roblox-device-div-1{
+    text-align: center;
+    padding: 0 25px;
+    margin-bottom: 84px;
+}
+.section-seven-heading{
+    font-size: 36px;
+    margin-bottom: 22px;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #fff;
+}
+.section-seven-paragraph{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.875;
+    color: #cccdd3;
+    letter-spacing: .001em;
+    text-align: center;
+    width: 40%;
+    margin-left: 387px;
+}
+.section-seven-images{
+    height: 50px;
+    width: 139px;
+    padding: 0 20px;
+}
+.roblox-device-div-2{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: black;
+    padding: 0 50px;
+}
+.footer-div-1{
+    padding: 127px 0 42px 0;
+    margin: 0 175px;
+}
+.footer-div-2{
+    display: flex;
+}
+.footer-heading{
+    color: #009dff;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .025em;
+    margin-bottom: 15px;
+}
+.footer-div-3{
+    display: flex;
+    flex-direction: column;
+}
+.footer-links{
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .025em;
+    color: #868e96;
+    text-decoration: none;
+    margin-bottom: 12px;
+}
+.footer-div-4{
+    padding-left: 30px;
+}
+.footer-links:hover{
+    color: #009dff;
+}
+.footer-div-5{
+    padding-left: 382px;
+    padding-top: 17px;
+}
+.footer-image:hover{
+    color: #009dff;
+}
+.footer-div-6{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-paragraph{
+    color: #868e96;
+    padding: 0;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: .025em;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+.footer-div-7{
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+.footer-last-links{
+    color: #868e96;
+    padding: 0;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: .025em;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+.footer-last-links:hover{
+    color: #009dff;
+}
