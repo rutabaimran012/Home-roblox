@@ -40,13 +40,21 @@ nav{
     font-size: 72px;
     color: #fff;
     font-family: inherit;
-    background-color: blue;
-    text-align: center;
+    text-align:center;
     padding: 217px;
+    position: relative;
+    overflow: hidden;
+    min-height: 20vh;
+}
+.header__video{
+    position: absolute;
+    top: 0%;
+    min-width: 100%;
+    z-index: -1;
 }
 .roblox-div{
     padding: 238px 50px 246px 50px;
-    background-color: black;
+    background-color: #171515;
 }
 .roblox-heading{
     font-size: 36px;
@@ -84,27 +92,31 @@ nav{
     background-color: #009dff;
 }
 .learn{
-    background-color: blue;
+    background-image: url('https://corp.roblox.com/wp-content/uploads/2019/11/video-placeholder-about.jpg');
+    background-position: 50%;
+    background-size: cover;
 }
 .section-two-heading-one{
-    font-size: 72px;
+    font-size: 83px;
     color: #fff;
     font-family: inherit;
     cursor: pointer;
     text-align: center;
-    padding: 200px 200px 119px 200px;
+    padding: 336px 200px 119px 200px;
 }
 .section-two-heading-two{
-    font-size: 24px;
+    font-size: 18px;
     color: #fff;
     font-family: inherit;
     cursor: pointer;
     text-align: center;
     padding: 20px;
-    padding-bottom: 93px
+    padding-bottom: 93px;
+    margin-left: 3px;
+    margin-top: -22px;
 }
 .millions{
-    background-color: black;
+    background-color: #171515;
     padding: 116px 25px;
 }
 .millions-div-1{
@@ -170,7 +182,7 @@ nav{
 }
 .join-us{
     padding: 181px 37px;
-    background-color: black;
+    background-color: #171515;;
 }
 .section-five-heading{
     letter-spacing: .001em;
@@ -222,12 +234,15 @@ nav{
     text-align: center; 
 }
 .div-4{
-    background-color: gray;
+    background-image: url('https://corp.roblox.com/wp-content/uploads/2020/08/CP_FeaturedNewPost_1300x731.jpg');
     cursor: pointer;
+    padding: 100px 0;
+    background-position: right;
 }
 .div-5{
-    background-color: hotpink;
+    background-image: url('https://corp.roblox.com/wp-content/uploads/2020/08/Games-Grid.jpg');
     cursor: pointer;
+    padding: 100px;
 }
 .cartoons{
     padding: 24px 20px 20px 20px;
@@ -241,7 +256,7 @@ nav{
     letter-spacing: .2em;
     line-height: 1.2;
     text-align: center;
-    width: 122%;
+    width: 65%;
 }
 .section-six-heading-four{
     font-weight: 700;
@@ -253,7 +268,7 @@ nav{
     width: 141%;
 }
 .roblox-device{
-    background-color: rgb(51, 44, 44);
+    background-color: #171515;
     padding: 202px 0 154px 0;
 }
 .roblox-device-div-1{
@@ -360,4 +375,29 @@ footer{
 }
 .footer-last-links:hover{
     color: #009dff;
+}
+.section-two-icon{
+    margin-left: 610px;
+    margin-top: -18px;
+}
+.section-three-last-paragraph{
+    color: #fff;
+    font-size: 14px;
+    text-align: right;
+    margin-bottom: -104px;
+    margin-top: 101px;
+}
+.multiple-tv-background-heading{
+    font-size: 72px;
+    color: #fff;
+    font-family: inherit;
+    text-align:center;
+    padding: 217px;
+    position: relative;
+    overflow: hidden;
+    min-height: 20vh;
+}
+.multiple-tv-background-video{
+    position: absolute;
+   
 }
